@@ -1,0 +1,12 @@
+body{
+    background: lightblue;
+}
+
+p.second{
+    color: red ;
+    font-family : 'Times New Roman', Times, serif
+}
+
+h3.first{
+    text-align: center;
+}
